@@ -169,3 +169,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.venv
+bin
+bin/
+include
+include/
+lib
+lib/
+nodejs/node_modules/
+open-ai/nodejs/node_modules/
+open-ai/nodejs/.env
+open-ai/python/.env
+.DS_Store
+
