@@ -1,0 +1,8 @@
+# This dependency can be installed based on use case and models
+# Use python before 3.13.. some dependency issues with some of the packages
+pip install openai
+pip install langchain transformers accelerate torch
+pip install langchain ollama
+pip install langchain langchain-community ollama chromadb
+pip install langchain chromadb ollama pypdf fastapi uvicorn
+pip install diffusers torch transformers
