@@ -7,7 +7,8 @@ llm = OpenAI(model_name="....", openai_api_key=O_API_KEY)
 print(llm("Tell me  about LLM?"))
 
 
-H_API_KEY ="..."
+H_API_KEY =""
+
 
 from langchain import HuggingFaceHub
 
