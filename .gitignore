@@ -191,5 +191,7 @@ bin/
 .venv
 lib/
 pyvenv.cfg
+chroma_db/
+include/
 
 
